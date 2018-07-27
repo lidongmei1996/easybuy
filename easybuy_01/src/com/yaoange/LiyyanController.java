@@ -3,10 +3,9 @@ package com.yaoange;
 public class LiyyanController {
 
 	public static void main(String[] args) {
-		//±¾µØ×¢ÊÍ
-	System.out.println("ÁøÑÒ");
-	//bbbbbb
-
+		//Â±Â¾ÂµÃ˜Ã—Â¢ÃŠÃ
+	System.out.println("ÃÃ¸Ã‘Ã’");
+//aaaaaaaaa
 	}
 
 }
